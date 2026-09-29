@@ -63,7 +63,7 @@ namespace Tesztek
             Assert.That(jarmu.UzemanyagSzint, Is.EqualTo(40));
         }
 
-        /*
+
         // -------------------------
         // ElektromosAuto tesztek
         // -------------------------
@@ -104,7 +104,7 @@ namespace Tesztek
             Assert.That(auto.KilometerOra, Is.EqualTo(190000));
         }
 
-
+        /*
         // -------------------------
         // TeherAuto tesztek
         // -------------------------
