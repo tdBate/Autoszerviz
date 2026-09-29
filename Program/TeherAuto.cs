@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Program
 {
-    public class TeherAuto : Jarmu
+    public class TeherAuto
     {
 
     }
